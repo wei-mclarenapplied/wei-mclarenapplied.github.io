@@ -1,3 +1,3 @@
 # wei-mclarenapplied.github.io
 
-[Link to SqlRace](../mat-docs.github.io/index.html)
+[Full URL Link to SqlRace](https://github.com/wei-mclarenapplied/mat-docs.github.io/index.html)
