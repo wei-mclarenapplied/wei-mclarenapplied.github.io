@@ -1,9 +1,9 @@
 <img src="/images/malogo.png" width="300" align="right" /><br><br><br>
 
 # McLaren Applied Documentation Library
-Welcome
+Welcome to the McLaren Applied online documentation library.
 
-[Full URL Link to DisplayAPI](https://mat-docs.github.io/Atlas.DisplayAPI.Documentation/)
+[ATLAS Display API](https://mat-docs.github.io/Atlas.DisplayAPI.Documentation/)
 
 
-[Full URL Link to SqlRace](https://mat-docs.github.io/Atlas.SQLRaceAPI.Documentation/)
+[SQLRace API](https://mat-docs.github.io/Atlas.SQLRaceAPI.Documentation/)
